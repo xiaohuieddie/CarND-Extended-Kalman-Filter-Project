@@ -103,7 +103,7 @@ Below is the general Sensor Fusion Flow, which includes:
  2. Predict
  3. Update
  
- ![General Flow](/data/Sensor Fusion General Flow.png)
+ ![](data/Sensor Fusion General Flow.png)
 
 ### Initialization
 
@@ -259,11 +259,11 @@ The simulator provides two datasets. The difference between them are:
 
 Here is the simulator final state after running the EKL with dataset 1:
   
-![EKF Dataset1](/data/EKF Dataset1.png)
+![](data/EKF Dataset1.png)
 
 Here is the simulator final state after running the EKL with dataset 2:
 
-![EKF Dataset2](/data/EKF Dataset2.png)
+![](data/EKF Dataset2.png)
 
 ## Hints and Tips!
 
